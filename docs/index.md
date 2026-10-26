@@ -1,24 +1,24 @@
 # Radar View
 
-**Radar View est un outils d'analyses de tendanses et de calculateurs pour les grands indices mondiaux.**
+**Radar View est un outil d'analyses de tendances et de calculateurs pour les grands indices mondiaux.**
 
 ## Manifeste
 
-- Une méthode et des outils simples et gratuits en français.
-- Un maximum de visibilité pour passer à l'action.
+- Des outils simples et gratuits en français.
+- Visibilité maximum pour passer à l'action.
 
 ## Principes
 
-- La simplicité avant la complexité.
+- Simplicité avant la complexité.
 - Agir pour dépasser ses appréhensions.
 - Prendre confiance et devenir autonome.
 - Apprendre une fois, réutiliser toute sa vie.
 
 ## En savoir plus
 
-- 📘 Le projet RadarViex
+- 📘 Le projet RadarView
 - 🔑 Les calculateurs
-- 🎓 Visualition des tendances
+- 🎓 Visualisation des tendances
 - 🧭 La méthode d'apprentissage
-- 💻 Resosurces recommandés
+- 💻 Ressources recommandés
 - 📚 Le livre
