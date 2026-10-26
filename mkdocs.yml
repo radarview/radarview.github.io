@@ -1,0 +1,20 @@
+site_name: Radar View
+          
+theme:
+    name: material
+    features:
+        - navigation.instant
+
+plugins:
+    - search
+    - awesome-pages
+
+markdown_extensions:
+    - toc:
+          toc_depth: 0
+
+# Personnaliser le texte du pied de page :
+copyright: '© 2026 - Radar View'
+
+extra:
+    generator: false
