@@ -1,20 +1,21 @@
 site_name: Radar View
-          
+site_description: Documentation et outils
+copyright: '© 2026 Radar View - Tous droits réservés'
+
 theme:
-    name: material
-    features:
-        - navigation.instant
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
 
 plugins:
-    - search
-    - awesome-pages
-
-markdown_extensions:
-    - toc:
-          toc_depth: 0
-
-# Personnaliser le texte du pied de page :
-copyright: '© 2026 - Radar View'
-
-extra:
-    generator: false
+  - search
+  - awesome-pages
