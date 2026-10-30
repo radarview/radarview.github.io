@@ -20,13 +20,14 @@ indent_mode=2
 [project]
 name=radarview
 base_path=/home/pierre/projets/radarview
+description=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
+current_page=0
 FILE_NAME_0=2;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fradarview%2Fdocs%2Fcalculateurs%2FTendances%2Ftendance1.md;0;4
 FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fradarview%2Fdocs%2Fcalculateurs%2FTendances%2Ftendance2.md;0;4
 FILE_NAME_2=43;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fradarview%2Fdocs%2Fcalculateurs%2FIndices%2Findex.md;0;4
@@ -37,7 +38,7 @@ FILE_NAME_4=243;YAML;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fradarview%2Fmkd
 last_dir=/home/pierre
 
 [prjorg]
-expanded_paths=/home/pierre/projets/radarview/notes;
+expanded_paths=/home/pierre/projets/radarview;
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
 header_patterns=*.h;*.H;*.hpp;*.hxx;*.h++;*.hh;
 ignored_dirs_patterns=.*;CVS;
